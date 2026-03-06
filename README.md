@@ -7,3 +7,6 @@ TODO list:
 2. Create a section where there are links to the users favorite websites
 3. Make it usable as a custom homepage in a webbrowser
 4. Make the navbar transparent. So that I can have the body gradient throught the eintire site
+
+### Live Preview
+https://jacomaco.github.io/HomePage-project/
